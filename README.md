@@ -98,4 +98,4 @@ This project is licensed under the [Creative Commons BY-ND 4.0](https://creative
 * [HWiNFO Rainmeter documentation](https://docs.rainmeter.net/tips/hwinfo/)
 * [Rainmeter documentation for measures, meters and more](https://docs.rainmeter.net/manual/)
 * [Rajdhani font designed by itfoundry](https://github.com/itfoundry/rajdhani?tab=readme-ov-file)
-* [DS-Digital font designed by Dusit Supasawat](https://github.com/itfoundry/rajdhani?tab=readme-ov-file)
+* [DS-Digital font designed by Dusit Supasawat](https://www.dafont.com/font-comment.php?file=ds_digital)
