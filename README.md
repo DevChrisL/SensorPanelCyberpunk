@@ -33,7 +33,7 @@ Make sure to install these fonts to get the intended visual style!
 
 2. **Install HWiNFO**:
    - Download and install HWiNFO from the [official website](https://www.hwinfo.com/).
-   - Configure HWiNFO to allow Rainmeter to access sensor data by enabling "Shared Memory Support" in HWiNFO settings.  
+   - Configure HWiNFO to allow Rainmeter to access sensor data by disabling "Shared Memory Support" in HWiNFO settings.  
    For more information on how to set up HWiNFO with Rainmeter, refer to the [HWiNFO Rainmeter documentation](https://docs.rainmeter.net/tips/hwinfo/).
 
 3. **Clone or Download the Project**:
