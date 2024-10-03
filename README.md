@@ -1,9 +1,9 @@
 
-# SensorPanelCyberpunk
+# Cyberpunk 2077 Inspired Sensor Panel
 
 ![Preview Image](images/screenshot.png) <!-- Add path to your preview image -->
 
-SensorPanelCyberpunk is a customizable sensor panel created for Rainmeter that displays system sensor information using HWiNFO. It features a sleek cyberpunk-inspired design that integrates real-time data visualization for temperatures, usage, and other hardware metrics. Release version will not have potential copyright images
+SensorPanelCyberpunk is a customizable sensor panel created for Rainmeter that displays system sensor information using HWiNFO. It features a sleek cyberpunk-inspired design that integrates real-time data visualization for temperatures, usage, and other hardware metrics. Release version will not have potential copyrighted images.
 
 With support for different sensors, users can fully customize the panel to display the information they care about most, from CPU temperatures to GPU loads. The design uses modern, futuristic fonts to deliver a highly aesthetic look while maintaining practicality.
 
@@ -41,7 +41,7 @@ Make sure to install these fonts to get the intended visual style!
      ```bash
      git clone https://github.com/DevChrisL/SensorPanelCyberpunk.git
      ```
-   - Or download the latest release from the [releases page](#).
+   - Or download the latest release from the [releases page](https://github.com/DevChrisL/SensorPanelCyberpunk/releases).
 
 4. **Install Fonts**:
    - Download and install the [DS-Digital Font](https://www.dafont.com/ds-digital.font).
@@ -85,9 +85,6 @@ Make sure to install these fonts to get the intended visual style!
    - **CPUSensor0MinValue** and **CPUSensor0MaxValue** define the range for the sensor readings.
 
    **Make sure to read the comments in the `.ini` files** for detailed explanations on how to correctly set these variables and ensure that the displayed data matches your system's sensors.
-
-- **Font Settings**: You can change the font size, style, and other properties by editing the `.ini` file for each section of the panel.
-- **Panel Layout**: Feel free to rearrange, resize, or add new elements to suit your monitor and aesthetic preferences.
 
 ## License
 
